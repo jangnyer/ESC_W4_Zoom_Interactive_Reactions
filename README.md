@@ -7,6 +7,7 @@
 
 ## 📹 시연 영상
 👉 [(https://youtube.com/shorts/azArI61me_c?si=dC9HKJZqTF93TQN2)]
+Manycam 프로그램을 이용해 zoom에서 동작하는 영상입니다. 
 
 ---
 
